@@ -12,7 +12,7 @@ This repo contains all the projects I made during my System Design Engineering l
 - [Structured_Chat_Protocol](https://github.com/adityasonwane555/Structured-Chat-Protocol.git)
 - [URL Shortener](https://github.com/adityasonwane555/URL-Shortener.git)
 - [Chat Rooms System](https://github.com/adityasonwane555/Chat-Rooms-System.git) (like Discord channels)
-- [User Authentication System](https://github.com/adityasonwane555/User_Authentication-Chat-System.git) (unique users, login/logout)
+- [User Authentication System](https://github.com/adityasonwane555/User-Authentication-Chat-System.git) (unique users, login/logout)
 - 
 ### Coming Soon...
 
