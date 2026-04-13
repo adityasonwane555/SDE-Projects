@@ -14,6 +14,7 @@ This repo contains all the projects I made during my System Design Engineering l
 - [Chat Rooms System](https://github.com/adityasonwane555/Chat-Rooms-System.git) (like Discord channels)
 - [User Authentication System](https://github.com/adityasonwane555/User-Authentication-Chat-System.git) (unique users, login/logout)
 - [Message Persistence](https://github.com/adityasonwane555/Message-Persistence-System.git) (store chat history)
+- [Load Balancer System](https://github.com/adityasonwane555/Load-Balancer-System.git) (clients connect to different servers)
   
 ### Coming Soon...
 
