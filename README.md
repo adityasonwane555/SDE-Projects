@@ -15,6 +15,8 @@ This repo contains all the projects I made during my System Design Engineering l
 - [User Authentication System](https://github.com/adityasonwane555/User-Authentication-Chat-System.git) (unique users, login/logout)
 - [Message Persistence](https://github.com/adityasonwane555/Message-Persistence-System.git) (store chat history)
 - [Load Balancer System](https://github.com/adityasonwane555/Load-Balancer-System.git) (clients connect to different servers)
+- [Secure File Encryption System](https://github.com/adityasonwane555/Secure-File-Encryption-System.git) (encryption test project)
+- [Distributed Chat System](https://github.com/adityasonwane555/Distributed-Chat-System.git) (connects diffrent servers)
   
 ### Coming Soon...
 
