@@ -19,6 +19,7 @@ This repo contains all the projects I made during my System Design Engineering l
 - [Distributed Chat System](https://github.com/adityasonwane555/Distributed-Chat-System.git) (connects diffrent servers)
 - [Compression Program](https://github.com/adityasonwane555/Run-Length-Encoding.git) (compression of string)
 - [Threaded Task Scheduler](https://github.com/adityasonwane555/Threaded-Task-Scheduler.git) (Priority-Based Scheduler)
+- [Distributed Chat System with Persistence](https://github.com/adityasonwane555/Distributed-Chat-System-with-Persistence.git) (Chats gets stored in txt file)
   
 ### Coming Soon...
 
