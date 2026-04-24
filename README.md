@@ -25,3 +25,96 @@ This repo contains all the projects I made during my System Design Engineering l
 
 - [File Transfer System](link) (send files over network)
 - [REST API Server] (basic HTTP server in C++)
+
+---
+
+# More System Design Project Ideas
+
+## Authentication & Identity
+- Email/Password Auth System  
+- OTP Service  
+- Multi-Factor Authentication (MFA)  
+- OAuth 2.0 Provider  
+- Single Sign-On (SSO) System  
+- Session Management Service  
+- API Key Management System  
+
+## Core Backend Infrastructure
+- API Gateway  
+- Load Balancer  
+- Rate Limiter  
+- Reverse Proxy Server  
+- Service Discovery System  
+- Config Management Service  
+
+## Communication Systems
+- Notification Service  
+- Chat System  
+- WebSocket Server  
+- Pub/Sub Messaging System  
+- Email Sending Service  
+
+## Storage & Data Systems
+- File Storage Service  
+- URL Shortener  
+- Key-Value Store  
+- Distributed Cache  
+- Blob Storage System  
+- Backup & Restore System  
+
+## Distributed Systems & Queues
+- Job Queue System  
+- Task Scheduler  
+- Event Streaming System  
+- Distributed Locking Service  
+- Leader Election System  
+- Retry & Dead Letter Queue System  
+
+## Search & Indexing
+- Search Engine  
+- Full-text Search System  
+- Autocomplete System  
+- Log Search System  
+
+## Analytics & Logging
+- Logging System  
+- Metrics & Monitoring System  
+- Real-time Analytics Dashboard  
+- Click Tracking System  
+- Audit Logging System  
+
+## Security Systems
+- Password Manager Backend  
+- Encryption Service  
+- Secret Management System  
+- Fraud Detection System  
+- IP Blocking / Firewall Service  
+
+## Product-Level Systems
+- E-commerce Backend  
+- Ride Sharing Backend  
+- Food Delivery System  
+- Social Media Backend  
+- Blogging Platform  
+- Video Streaming Backend  
+
+## Advanced Systems
+- Distributed Database  
+- Consistent Hashing System  
+- Sharding System  
+- Replication System  
+- CDN Simulation  
+- Multi-region Deployment System  
+
+## Performance & Scaling
+- Caching Layer System  
+- Load Testing Tool  
+- Circuit Breaker System  
+- Throttling System  
+- Autoscaling Simulator  
+
+## DevOps & Infrastructure
+- Container Orchestrator  
+- CI/CD Pipeline System  
+- Deployment Rollback System  
+- Feature Flag System
