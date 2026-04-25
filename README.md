@@ -28,7 +28,7 @@ This repo contains all the projects I made during my System Design Engineering l
 
 ---
 
-# More System Design Project Ideas
+ More System Design Project Ideas
 
 ## Authentication & Identity
 - Email/Password Auth System  
