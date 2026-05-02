@@ -20,7 +20,7 @@ This repo contains all the projects I made during my System Design Engineering l
 - [Compression Program](https://github.com/adityasonwane555/Run-Length-Encoding.git) (compression of string)
 - [Threaded Task Scheduler](https://github.com/adityasonwane555/Threaded-Task-Scheduler.git) (Priority-Based Scheduler)
 - [Distributed Chat System with Persistence](https://github.com/adityasonwane555/Distributed-Chat-System-with-Persistence.git) (Chats gets stored in txt file)
-  
+- [Email/Password Auth System](https://github.com/adityasonwane555/EmailPassword-Auth-System.git) (My first API system that auth email/password)
 ### Coming Soon...
 
 - [File Transfer System](link) (send files over network)
@@ -31,7 +31,6 @@ This repo contains all the projects I made during my System Design Engineering l
 # More System Design Project Ideas
 
 ## Authentication & Identity
-- Email/Password Auth System  
 - OTP Service  
 - Multi-Factor Authentication (MFA)  
 - OAuth 2.0 Provider  
