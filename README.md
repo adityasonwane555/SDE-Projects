@@ -24,7 +24,7 @@ This repo contains all the projects I made during my System Design Engineering l
 ### Coming Soon...
 
 - [File Transfer System](link) (send files over network)
-- [REST API Server] (basic HTTP server in C++)
+- [REST API Server](link) (basic HTTP server in C++)
 
 ---
 
