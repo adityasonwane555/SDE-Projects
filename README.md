@@ -21,6 +21,7 @@ This repo contains all the projects I made during my System Design Engineering l
 - [Threaded Task Scheduler](https://github.com/adityasonwane555/Threaded-Task-Scheduler.git) (Priority-Based Scheduler)
 - [Distributed Chat System with Persistence](https://github.com/adityasonwane555/Distributed-Chat-System-with-Persistence.git) (Chats gets stored in txt file)
 - [Email/Password Auth System](https://github.com/adityasonwane555/EmailPassword-Auth-System.git) (My first API system that auth email/password)
+- [OTP Service](https://github.com/adityasonwane555/OTP-Service-System-Design.git) (Learning how OTP service works)
 ### Coming Soon...
 
 - [File Transfer System](link) (send files over network)
@@ -30,8 +31,7 @@ This repo contains all the projects I made during my System Design Engineering l
 
 # More System Design Project Ideas
 
-## Authentication & Identity
-- OTP Service  
+## Authentication & Identity 
 - Multi-Factor Authentication (MFA)  
 - OAuth 2.0 Provider  
 - Single Sign-On (SSO) System  
